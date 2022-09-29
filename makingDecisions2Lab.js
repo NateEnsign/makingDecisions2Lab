@@ -128,6 +128,12 @@ var listOfNumbers = [1,2,3,4,5,6,7,8,9,10,11,12];
 
 //Code Here
 
+for (let i = 0; i < listOfNumbers.length; i++ ){
+  if (i %3 === 0) {
+    console.log(i + 'is divisible by 3.')
+  }
+}
+
 
 ////////// PROBLEM 9 //////////
 // Do not edit the code below.
