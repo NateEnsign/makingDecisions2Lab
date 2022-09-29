@@ -108,6 +108,15 @@ console.log (someNum)
 
 //Code Here
 
+  if (myFavoriteNumbers.length < 7) {
+    console.log('There are not enough elements in this array')
+  }else {console.log(someNum = myFavoriteNumbers.slice(6,7))
+  }
+  
+  
+
+
+
 
 ////////// PROBLEM 8 //////////
 
